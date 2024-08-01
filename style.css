@@ -179,10 +179,10 @@ footer{
 }
 
 /* Responsive Design */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 767px) {
     .body{
-        padding: 1rem;
-        margin: 1 rem:
+        padding: 1;
+        margin: 1rem;
     }
 
     .sections{
@@ -221,6 +221,11 @@ footer{
     .section_2{
         margin-top: 1rem;
         height: 38rem;
+    }
+
+    footer{
+        padding: 1;
+        margin: 1rem;
     }
   
   }
