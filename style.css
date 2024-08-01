@@ -181,7 +181,7 @@ footer{
 /* Responsive Design */
 @media screen and (max-width: 767px) {
     .body{
-        padding: 1;
+        padding: 1rem;
         margin: 1rem;
     }
 
