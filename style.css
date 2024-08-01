@@ -29,7 +29,6 @@
 body {
     background-color: #F3F5FC;
     font-family: var(--fuente);
-    padding-right: 5rem;
 }
 
 .sections{
@@ -182,8 +181,8 @@ footer{
 /* Responsive Design */
 @media screen and (max-width: 720px) {
     .body{
-        padding-right: 0;
-        padding-left: 1rem;
+        padding: 1rem;
+        margin: 1 rem:
     }
 
     .sections{
